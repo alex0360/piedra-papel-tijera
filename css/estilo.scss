@@ -1,0 +1,13 @@
+$texto: black;
+$backgraund: white;
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    background: $backgraund;
+    padding: 20px;
+}
